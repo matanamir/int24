@@ -1,5 +1,7 @@
 # int24
 
+[![Build Status](https://travis-ci.org/matanamir/int24.png)](https://travis-ci.org/matanamir/int24)
+
 int24 is a simple utility library for serializing 24-bit integers.
 
 ## Why is this useful?
