@@ -15,7 +15,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/matanamir/int24"
+        "url": "git@github.com:matanamir/int24.git"
     },
     "scripts": {
         "test": "node test/int24-test.js"
