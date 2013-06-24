@@ -1,0 +1,27 @@
+{
+    "name": "node-int24",
+    "version": "0.0.1",
+    "author": "Matan Amir <github-contrib@ematan.com> (http://www.n0tw0rthy.com)",
+    "description": "24-bit integer serialization",
+    "main": "index.js",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "tap": "*"
+    },
+    "license": {
+        "type": "MIT",
+        "url": "https://github.com/matanamir/int24/raw/master/LICENSE"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/matanamir/int24"
+    },
+    "scripts": {
+        "test": "node test/int24-test.js"
+    },
+    "keywords": [
+        "24-bit",
+        "buffer"
+    ]
+}
